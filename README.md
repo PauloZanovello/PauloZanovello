@@ -58,6 +58,7 @@ Meu perfil é focado em entregar soluções com qualidade, confiabilidade e melh
 
 ## 📚 Atualmente estudando
 
+* Análise e Desenvolvimento de Sistemas (EAD - Junho/2027)
 * Automação de testes com Cypress
 * Boas práticas em QA
 * Estruturação de casos de teste
